@@ -23,7 +23,7 @@ $Header-height: 110px;
     }
     &-book{
       position: relative;
-      bottom: 440px;
+      bottom: 460px;
       z-index: 15;
       @include mq("tablet"){
         position: relative;
@@ -47,7 +47,7 @@ $Header-height: 110px;
     position: absolute;
     max-width: 100%;
     left: 600px;
-    bottom: 915px;
+    bottom: 935px;
     z-index: 5;
     @include mq {
       display: none;
